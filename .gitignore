@@ -1,8 +1,6 @@
 __pycache__/
 .cache
 .venv
-our_dataset
-titanium_dataset
 unannotated_input
 annotated_output
 renderings
